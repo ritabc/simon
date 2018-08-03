@@ -12,8 +12,8 @@ NewGame.prototype.addToSequence = function() {
 
 NewGame.prototype.addToUserSequence = function(color) {
   this.userSequence.push(color);
-}
+};
 
 NewGame.prototype.check = function() {
-  
-}
+
+};
